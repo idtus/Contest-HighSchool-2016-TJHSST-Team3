@@ -1,0 +1,9 @@
+#
+gmap_div.gv_marker_info_window {
+    font - size: 11 px!important;
+}#
+gmap_div.gv_label {
+    background - color: #333333; border:1px solid black; padding:1px;
+				color:white; font:9px Verdana,sans-serif !important; font-weight:normal !important;
+				opacity:0.80; filter:alpha(opacity= 80);
+}
